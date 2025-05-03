@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "tight-fire-94ad",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "df900adf-faf2-4db3-a6a7-4f532875d27d",
+      "database_name": "tight-fire-94ad-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
